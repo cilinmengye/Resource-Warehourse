@@ -1,1 +1,1 @@
-存储Typora Markdown时的图传
+存储Typora Markdown时的图床
